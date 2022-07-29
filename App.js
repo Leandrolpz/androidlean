@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>H@cK3D</Text>
-      <
+      
       <StatusBar style="auto" />
     </View>
   )
